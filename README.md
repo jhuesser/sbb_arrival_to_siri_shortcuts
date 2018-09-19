@@ -9,6 +9,8 @@ The shortcut needs to be like this:
 
 This returns the time in a variable you can process futher (eg. send a message)
 
+you can find the shortcut [here](https://www.icloud.com/shortcuts/dec0891b3af84e0b89cfafea84bf2634)
+
 # Example / Usage
 
 You need to make a GET-call with `destination` and `departure` set. this can be the station name or ID (refer to the [API docs](http://transport.opendata.ch/docs.html)). You can try it with `https://api.jhuesser.ch/sbb/handler.php`
