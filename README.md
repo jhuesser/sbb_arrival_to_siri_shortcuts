@@ -17,3 +17,4 @@ for example:
 ```HTTP
 GET https://api.jhuesser.ch/sbb/handler.php?departure=8573710&destination=8503504
 ```
+This will return the estimated arrival time of the second connection in the JSON, because the first often can't be reached.
